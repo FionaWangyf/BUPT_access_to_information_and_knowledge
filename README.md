@@ -1,1 +1,3 @@
 # BUPT_access_to_information_and_knowledge
+所有数据相关文件都放在data中，包括未处理的原数据和处理后的数据
+源代码都在src中
