@@ -1,0 +1,43 @@
+{
+  "1": {
+    "query_id": 1,
+    "query_text": "climate change",
+    "timestamp": 1748953844.885241,
+    "results_evaluated": [
+      {
+        "doc_id": 67,
+        "rank": 1,
+        "similarity": 0.9995621238751558,
+        "relevance_score": 2,
+        "title": "Oil companies face a wrongful death suit tied to climate change"
+      },
+      {
+        "doc_id": 11,
+        "rank": 2,
+        "similarity": 0.5066626906771504,
+        "relevance_score": 3,
+        "title": "Hurricane season has started. Here's what to know"
+      },
+      {
+        "doc_id": 12,
+        "rank": 3,
+        "similarity": 0.5061514143531571,
+        "relevance_score": 2,
+        "title": "North Carolina had a housing crisis before Hurricane Helene; now it's even worse"
+      },
+      {
+        "doc_id": 79,
+        "rank": 4,
+        "similarity": 0.44844651455380924,
+        "relevance_score": 1,
+        "title": "Corporate America's retreat from DEI has eliminated thousands of jobs"
+      }
+    ],
+    "relevance_judgments": {
+      "67": 2,
+      "11": 3,
+      "12": 2,
+      "79": 1
+    }
+  }
+}

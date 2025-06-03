@@ -1,0 +1,143 @@
+[
+  {
+    "query_id": 1,
+    "query_text": "climate change",
+    "description": "关于气候变化的新闻",
+    "relevant_docs": [
+      67,
+      11,
+      12,
+      79
+    ],
+    "relevance_scores": {
+      "67": 2,
+      "11": 3,
+      "12": 2,
+      "79": 1
+    },
+    "system_results": [
+      67,
+      11,
+      12,
+      79,
+      0,
+      88,
+      55,
+      45,
+      58,
+      90
+    ]
+  },
+  {
+    "query_id": 2,
+    "query_text": "health care",
+    "description": "医疗保健相关报道",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 3,
+    "query_text": "education",
+    "description": "教育相关新闻",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 4,
+    "query_text": "politics election",
+    "description": "政治和选举新闻",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 5,
+    "query_text": "technology AI",
+    "description": "科技和人工智能",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 6,
+    "query_text": "economy financial",
+    "description": "经济和金融新闻",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 7,
+    "query_text": "science research",
+    "description": "科学研究报道",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 8,
+    "query_text": "culture arts",
+    "description": "文化艺术新闻",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 9,
+    "query_text": "sports",
+    "description": "体育新闻",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 10,
+    "query_text": "immigration",
+    "description": "移民相关报道",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 11,
+    "query_text": "coronavirus COVID",
+    "description": "新冠疫情相关",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 12,
+    "query_text": "vaccine",
+    "description": "疫苗相关新闻",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 13,
+    "query_text": "social media",
+    "description": "社交媒体相关",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 14,
+    "query_text": "mental health",
+    "description": "心理健康",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  },
+  {
+    "query_id": 15,
+    "query_text": "environment pollution",
+    "description": "环境和污染",
+    "relevant_docs": [],
+    "relevance_scores": {},
+    "system_results": []
+  }
+]

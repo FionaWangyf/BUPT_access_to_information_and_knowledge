@@ -1,0 +1,210 @@
+{
+  "system_report": {
+    "system_summary": {
+      "total_queries": 1,
+      "total_relevant_docs": 10,
+      "total_retrieved_docs": 10,
+      "avg_relevant_per_query": 10.0,
+      "avg_retrieved_per_query": 10.0
+    },
+    "system_metrics": {
+      "Precision@1": 1.0,
+      "Recall@1": 0.1,
+      "F1@1": 0.18181818181818182,
+      "NDCG@1": 1.0,
+      "Precision@3": 1.0,
+      "Recall@3": 0.3,
+      "F1@3": 0.4615384615384615,
+      "NDCG@3": 1.0,
+      "Precision@5": 1.0,
+      "Recall@5": 0.5,
+      "F1@5": 0.6666666666666666,
+      "NDCG@5": 1.0,
+      "Precision@10": 1.0,
+      "Recall@10": 1.0,
+      "F1@10": 1.0,
+      "NDCG@10": 1.0,
+      "Average_Precision": 1.0,
+      "Reciprocal_Rank": 1.0,
+      "RBP": 0.8926258176,
+      "MAP": 1.0,
+      "MRR": 1.0
+    },
+    "metric_distributions": {
+      "Precision@1": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Recall@1": {
+        "mean": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "std": 0.0
+      },
+      "F1@1": {
+        "mean": 0.18181818181818182,
+        "min": 0.18181818181818182,
+        "max": 0.18181818181818182,
+        "std": 0.0
+      },
+      "NDCG@1": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Precision@3": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Recall@3": {
+        "mean": 0.3,
+        "min": 0.3,
+        "max": 0.3,
+        "std": 0.0
+      },
+      "F1@3": {
+        "mean": 0.4615384615384615,
+        "min": 0.4615384615384615,
+        "max": 0.4615384615384615,
+        "std": 0.0
+      },
+      "NDCG@3": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Precision@5": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Recall@5": {
+        "mean": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "std": 0.0
+      },
+      "F1@5": {
+        "mean": 0.6666666666666666,
+        "min": 0.6666666666666666,
+        "max": 0.6666666666666666,
+        "std": 0.0
+      },
+      "NDCG@5": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Precision@10": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Recall@10": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "F1@10": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "NDCG@10": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Average_Precision": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "Reciprocal_Rank": {
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0
+      },
+      "RBP": {
+        "mean": 0.8926258176,
+        "min": 0.8926258176,
+        "max": 0.8926258176,
+        "std": 0.0
+      }
+    },
+    "per_query_metrics": [
+      {
+        "Precision@1": 1.0,
+        "Recall@1": 0.1,
+        "F1@1": 0.18181818181818182,
+        "NDCG@1": 1.0,
+        "Precision@3": 1.0,
+        "Recall@3": 0.3,
+        "F1@3": 0.4615384615384615,
+        "NDCG@3": 1.0,
+        "Precision@5": 1.0,
+        "Recall@5": 0.5,
+        "F1@5": 0.6666666666666666,
+        "NDCG@5": 1.0,
+        "Precision@10": 1.0,
+        "Recall@10": 1.0,
+        "F1@10": 1.0,
+        "NDCG@10": 1.0,
+        "Average_Precision": 1.0,
+        "Reciprocal_Rank": 1.0,
+        "RBP": 0.8926258176
+      }
+    ]
+  },
+  "query_reports": [
+    {
+      "query_info": {
+        "query_id": 1,
+        "query_text": "climate change",
+        "total_relevant_docs": 10,
+        "total_retrieved_docs": 10,
+        "relevant_retrieved_docs": 10
+      },
+      "metrics": {
+        "Precision@1": 1.0,
+        "Recall@1": 0.1,
+        "F1@1": 0.18181818181818182,
+        "NDCG@1": 1.0,
+        "Precision@3": 1.0,
+        "Recall@3": 0.3,
+        "F1@3": 0.4615384615384615,
+        "NDCG@3": 1.0,
+        "Precision@5": 1.0,
+        "Recall@5": 0.5,
+        "F1@5": 0.6666666666666666,
+        "NDCG@5": 1.0,
+        "Precision@10": 1.0,
+        "Recall@10": 1.0,
+        "F1@10": 1.0,
+        "NDCG@10": 1.0,
+        "Average_Precision": 1.0,
+        "Reciprocal_Rank": 1.0,
+        "RBP": 0.8926258176
+      },
+      "analysis": {
+        "overall_precision": 1.0,
+        "overall_recall": 1.0,
+        "coverage": 1.0
+      }
+    }
+  ]
+}
