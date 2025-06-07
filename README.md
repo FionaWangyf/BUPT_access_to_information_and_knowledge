@@ -125,23 +125,172 @@ python evaluation_system.py --mode metrics
 
 ## 文件结构
 
-```
-.
-├── data/
-│   └── npr_articles.json    # 新闻文章数据
-├── src/
-│   ├── retrieval/          # 检索相关代码
-│   │   ├── search_engine.py
-│   │   └── ...
-│   └── evaluation/         # 评价相关代码
-│       ├── manual_evaluation.py
-│       ├── evaluation_metrics.py
-│       └── test_queries.py
-├── results/                # 评价结果
-│   ├── manual_evaluation.json
-│   └── test_queries.json
-├── main.py                # 搜索系统主程序
-└── evaluation_system.py   # 评价系统主程序
-```
 
 
+
+
+```
+BUPT_access_to_information_and_knowledge
+├─ 📁data
+│  ├─ 📁npr_articles
+│  │  ├─ 📄article_1.txt
+│  │  ├─ 📄article_10.txt
+│  │  ├─ 📄article_100.txt
+│  │  ├─ 📄article_11.txt
+│  │  ├─ 📄article_12.txt
+│  │  ├─ 📄article_13.txt
+│  │  ├─ 📄article_14.txt
+│  │  ├─ 📄article_15.txt
+│  │  ├─ 📄article_16.txt
+│  │  ├─ 📄article_17.txt
+│  │  ├─ 📄article_18.txt
+│  │  ├─ 📄article_19.txt
+│  │  ├─ 📄article_2.txt
+│  │  ├─ 📄article_20.txt
+│  │  ├─ 📄article_21.txt
+│  │  ├─ 📄article_22.txt
+│  │  ├─ 📄article_23.txt
+│  │  ├─ 📄article_24.txt
+│  │  ├─ 📄article_25.txt
+│  │  ├─ 📄article_26.txt
+│  │  ├─ 📄article_27.txt
+│  │  ├─ 📄article_28.txt
+│  │  ├─ 📄article_29.txt
+│  │  ├─ 📄article_3.txt
+│  │  ├─ 📄article_30.txt
+│  │  ├─ 📄article_31.txt
+│  │  ├─ 📄article_32.txt
+│  │  ├─ 📄article_33.txt
+│  │  ├─ 📄article_34.txt
+│  │  ├─ 📄article_35.txt
+│  │  ├─ 📄article_36.txt
+│  │  ├─ 📄article_37.txt
+│  │  ├─ 📄article_38.txt
+│  │  ├─ 📄article_39.txt
+│  │  ├─ 📄article_4.txt
+│  │  ├─ 📄article_40.txt
+│  │  ├─ 📄article_41.txt
+│  │  ├─ 📄article_42.txt
+│  │  ├─ 📄article_43.txt
+│  │  ├─ 📄article_44.txt
+│  │  ├─ 📄article_45.txt
+│  │  ├─ 📄article_46.txt
+│  │  ├─ 📄article_47.txt
+│  │  ├─ 📄article_48.txt
+│  │  ├─ 📄article_49.txt
+│  │  ├─ 📄article_5.txt
+│  │  ├─ 📄article_50.txt
+│  │  ├─ 📄article_51.txt
+│  │  ├─ 📄article_52.txt
+│  │  ├─ 📄article_53.txt
+│  │  ├─ 📄article_54.txt
+│  │  ├─ 📄article_55.txt
+│  │  ├─ 📄article_56.txt
+│  │  ├─ 📄article_57.txt
+│  │  ├─ 📄article_58.txt
+│  │  ├─ 📄article_59.txt
+│  │  ├─ 📄article_6.txt
+│  │  ├─ 📄article_60.txt
+│  │  ├─ 📄article_61.txt
+│  │  ├─ 📄article_62.txt
+│  │  ├─ 📄article_63.txt
+│  │  ├─ 📄article_64.txt
+│  │  ├─ 📄article_65.txt
+│  │  ├─ 📄article_66.txt
+│  │  ├─ 📄article_67.txt
+│  │  ├─ 📄article_68.txt
+│  │  ├─ 📄article_69.txt
+│  │  ├─ 📄article_7.txt
+│  │  ├─ 📄article_70.txt
+│  │  ├─ 📄article_71.txt
+│  │  ├─ 📄article_72.txt
+│  │  ├─ 📄article_73.txt
+│  │  ├─ 📄article_74.txt
+│  │  ├─ 📄article_75.txt
+│  │  ├─ 📄article_76.txt
+│  │  ├─ 📄article_77.txt
+│  │  ├─ 📄article_78.txt
+│  │  ├─ 📄article_79.txt
+│  │  ├─ 📄article_8.txt
+│  │  ├─ 📄article_80.txt
+│  │  ├─ 📄article_81.txt
+│  │  ├─ 📄article_82.txt
+│  │  ├─ 📄article_83.txt
+│  │  ├─ 📄article_84.txt
+│  │  ├─ 📄article_85.txt
+│  │  ├─ 📄article_86.txt
+│  │  ├─ 📄article_87.txt
+│  │  ├─ 📄article_88.txt
+│  │  ├─ 📄article_89.txt
+│  │  ├─ 📄article_9.txt
+│  │  ├─ 📄article_90.txt
+│  │  ├─ 📄article_91.txt
+│  │  ├─ 📄article_92.txt
+│  │  ├─ 📄article_93.txt
+│  │  ├─ 📄article_94.txt
+│  │  ├─ 📄article_95.txt
+│  │  ├─ 📄article_96.txt
+│  │  ├─ 📄article_97.txt
+│  │  ├─ 📄article_98.txt
+│  │  └─ 📄article_99.txt
+│  └─ 📄npr_articles.json
+├─ 📁results
+│  ├─ 📄evaluation_report.json
+│  ├─ 📄manual_evaluation.json
+│  └─ 📄test_queries.json
+├─ 📁src
+│  ├─ 📁crawler
+│  │  └─ 📄scrape_npr.py
+│  ├─ 📁evaluation
+│  │  ├─ 📁__pycache__
+│  │  │  ├─ 📄__init__.cpython-312.pyc
+│  │  │  ├─ 📄evaluation_metrics.cpython-312.pyc
+│  │  │  ├─ 📄manual_evaluation.cpython-312.pyc
+│  │  │  └─ 📄test_queries.cpython-312.pyc
+│  │  ├─ 📄__init__.py
+│  │  ├─ 📄evaluation_metrics.py
+│  │  ├─ 📄manual_evaluation.py
+│  │  └─ 📄test_queries.py
+│  ├─ 📁indexing
+│  │  ├─ 📄__init__.py
+│  │  ├─ 📄document_frequency.py
+│  │  ├─ 📄inverted_index.py
+│  │  └─ 📄term_frequency.py
+│  ├─ 📁preprocessing
+│  │  ├─ 📁__pycache__
+│  │  │  ├─ 📄__init__.cpython-312.pyc
+│  │  │  ├─ 📄data_loader.cpython-312.pyc
+│  │  │  ├─ 📄document_processor.cpython-312.pyc
+│  │  │  ├─ 📄stopwords.cpython-312.pyc
+│  │  │  ├─ 📄text_cleaner.cpython-312.pyc
+│  │  │  ├─ 📄text_processor.cpython-312.pyc
+│  │  │  └─ 📄tokenizer.cpython-312.pyc
+│  │  ├─ 📄__init__.py
+│  │  ├─ 📄data_loader.py
+│  │  ├─ 📄document_processor.py
+│  │  └─ 📄text_processor.py
+│  └─ 📁retrieval
+│     ├─ 📁__pycache__
+│     │  ├─ 📄__init__.cpython-312.pyc
+│     │  ├─ 📄bm25_model.cpython-312.pyc
+│     │  ├─ 📄multi_field_scoring.cpython-312.pyc
+│     │  ├─ 📄query_processor.cpython-312.pyc
+│     │  ├─ 📄search_engine.cpython-312.pyc
+│     │  ├─ 📄similarity_calculator.cpython-312.pyc
+│     │  ├─ 📄temporal_scoring.cpython-312.pyc
+│     │  └─ 📄vector_space_model.cpython-312.pyc
+│     ├─ 📄__init__.py
+│     ├─ 📄bm25_model.py
+│     ├─ 📄multi_field_model.py
+│     ├─ 📄multi_field_scoring.py
+│     ├─ 📄query_processor.py
+│     ├─ 📄search_engine.py
+│     ├─ 📄similarity_calculator.py
+│     ├─ 📄temporal_scoring.py
+│     └─ 📄vector_space_model.py
+├─ 📄.gitignore
+├─ 📄README.md
+├─ 📄evaluation_system.py
+├─ 📄main.py
+└─ 📄search_diagnostics.py
+```
