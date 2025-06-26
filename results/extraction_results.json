@@ -1,0 +1,297 @@
+{
+  "1": [
+    {
+      "entity_type": "location",
+      "entity_value": "Ukraine",
+      "confidence": 0.9,
+      "start_position": 32,
+      "end_position": 39,
+      "context": "Biden Announces Military Aid to [Ukraine]",
+      "doc_id": 1,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 1,
+        "pattern_description": "国际热点",
+        "match_type": "international",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Biden Announces",
+      "confidence": 0.8500000000000001,
+      "start_position": 0,
+      "end_position": 15,
+      "context": "[Biden Announces] Military Aid to Ukraine",
+      "doc_id": 1,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "standard_format",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Military Aid",
+      "confidence": 0.8500000000000001,
+      "start_position": 16,
+      "end_position": 28,
+      "context": "Biden Announces [Military Aid] to Ukraine",
+      "doc_id": 1,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "standard_format",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "location",
+      "entity_value": "Ukraine",
+      "confidence": 0.9,
+      "start_position": 32,
+      "end_position": 39,
+      "context": "US provides military support to [Ukraine]",
+      "doc_id": 1,
+      "field": "summary",
+      "metadata": {
+        "pattern_index": 1,
+        "pattern_description": "国际热点",
+        "match_type": "international",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "money",
+      "entity_value": "$2.5 billion",
+      "confidence": 1.0,
+      "start_position": 26,
+      "end_position": 38,
+      "context": "President Biden announced [$2.5 billion] aid package...",
+      "doc_id": 1,
+      "field": "content",
+      "metadata": {
+        "pattern_index": 0,
+        "pattern_description": "大额资金",
+        "match_type": "large_amount",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Biden",
+      "confidence": 0.9,
+      "start_position": 10,
+      "end_position": 15,
+      "context": "President [Biden] announced $2.5 billion aid package...",
+      "doc_id": 1,
+      "field": "content",
+      "metadata": {
+        "pattern_index": 3,
+        "pattern_description": "标准人名格式",
+        "match_type": "default",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    }
+  ],
+  "2": [
+    {
+      "entity_type": "organization",
+      "entity_value": "Congress",
+      "confidence": 1.0,
+      "start_position": 25,
+      "end_position": 33,
+      "context": "NPR CEO Testifies Before [Congress]",
+      "doc_id": 2,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 0,
+        "pattern_description": "政府机构",
+        "match_type": "government",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "NPR CEO",
+      "confidence": 0.9500000000000001,
+      "start_position": 0,
+      "end_position": 7,
+      "context": "[NPR CEO] Testifies Before Congress",
+      "doc_id": 2,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "npr_attribution",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Testifies Before",
+      "confidence": 0.8500000000000001,
+      "start_position": 8,
+      "end_position": 24,
+      "context": "NPR CEO [Testifies Before] Congress",
+      "doc_id": 2,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "standard_format",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "NPR leadership",
+      "confidence": 0.9500000000000001,
+      "start_position": 0,
+      "end_position": 14,
+      "context": "[NPR leadership] faces congressional questioning",
+      "doc_id": 2,
+      "field": "summary",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "npr_attribution",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "organization",
+      "entity_value": "NPR",
+      "confidence": 0.9500000000000001,
+      "start_position": 32,
+      "end_position": 35,
+      "context": "Katherine Maher testified about [NPR]'s editorial independence...",
+      "doc_id": 2,
+      "field": "content",
+      "metadata": {
+        "pattern_index": 3,
+        "pattern_description": "企业公司",
+        "match_type": "media",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Maher",
+      "confidence": 0.75,
+      "start_position": 10,
+      "end_position": 15,
+      "context": "Katherine [Maher] testified about NPR's editorial independence...",
+      "doc_id": 2,
+      "field": "content",
+      "metadata": {
+        "pattern_index": 3,
+        "pattern_description": "标准人名格式",
+        "match_type": "default",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    }
+  ],
+  "3": [
+    {
+      "entity_type": "organization",
+      "entity_value": "Federal Reserve",
+      "confidence": 0.9,
+      "start_position": 0,
+      "end_position": 15,
+      "context": "[Federal Reserve] Raises Interest Rates",
+      "doc_id": 3,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 2,
+        "pattern_description": "大学院校",
+        "match_type": "default",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Federal Reserve",
+      "confidence": 0.8500000000000001,
+      "start_position": 0,
+      "end_position": 15,
+      "context": "[Federal Reserve] Raises Interest Rates",
+      "doc_id": 3,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "standard_format",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Raises Interest",
+      "confidence": 0.8500000000000001,
+      "start_position": 16,
+      "end_position": 31,
+      "context": "Federal Reserve [Raises Interest] Rates",
+      "doc_id": 3,
+      "field": "title",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "standard_format",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "person",
+      "entity_value": "Fed continues",
+      "confidence": 0.75,
+      "start_position": 0,
+      "end_position": 13,
+      "context": "[Fed continues] monetary tightening policy",
+      "doc_id": 3,
+      "field": "summary",
+      "metadata": {
+        "pattern_index": 5,
+        "pattern_description": "其他人名模式",
+        "match_type": "default",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    },
+    {
+      "entity_type": "organization",
+      "entity_value": "Federal Reserve",
+      "confidence": 0.9,
+      "start_position": 4,
+      "end_position": 19,
+      "context": "The [Federal Reserve] announced a 0.25% rate increase...",
+      "doc_id": 3,
+      "field": "content",
+      "metadata": {
+        "pattern_index": 2,
+        "pattern_description": "大学院校",
+        "match_type": "default",
+        "has_groups": true,
+        "extractor": "regex"
+      }
+    }
+  ]
+}

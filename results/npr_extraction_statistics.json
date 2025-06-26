@@ -1,0 +1,29 @@
+{
+  "total_documents_processed": 30,
+  "total_extractions": 308,
+  "total_processing_time": 0.06623005867004395,
+  "extractions_by_type": {
+    "person": 193,
+    "location": 50,
+    "quote": 37,
+    "time": 16,
+    "organization": 6,
+    "money": 6
+  },
+  "extractions_by_extractor": {
+    "regex": 308
+  },
+  "average_confidence": 0.8295454545454544,
+  "documents_with_extractions": 28,
+  "avg_extractions_per_document": 10.266666666666667,
+  "avg_processing_time_per_document": 0.002207668622334798,
+  "documents_with_extractions_ratio": 0.9333333333333333,
+  "timestamp": 1750937144.329501,
+  "config": {
+    "enable_regex_extractor": true,
+    "regex_confidence_threshold": 0.7,
+    "merge_duplicate_entities": true,
+    "max_entities_per_type": 30,
+    "enable_cache": true
+  }
+}

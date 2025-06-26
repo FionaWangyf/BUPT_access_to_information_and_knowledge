@@ -1,0 +1,18 @@
+doc_id,entity_type,entity_value,confidence,start_position,end_position,field,context
+1,location,Ukraine,0.9,32,39,title,Biden Announces Military Aid to [Ukraine]
+1,person,Biden Announces,0.8500000000000001,0,15,title,[Biden Announces] Military Aid to Ukraine
+1,person,Military Aid,0.8500000000000001,16,28,title,Biden Announces [Military Aid] to Ukraine
+1,location,Ukraine,0.9,32,39,summary,US provides military support to [Ukraine]
+1,money,$2.5 billion,1.0,26,38,content,President Biden announced [$2.5 billion] aid package...
+1,person,Biden,0.9,10,15,content,President [Biden] announced $2.5 billion aid package...
+2,organization,Congress,1.0,25,33,title,NPR CEO Testifies Before [Congress]
+2,person,NPR CEO,0.9500000000000001,0,7,title,[NPR CEO] Testifies Before Congress
+2,person,Testifies Before,0.8500000000000001,8,24,title,NPR CEO [Testifies Before] Congress
+2,person,NPR leadership,0.9500000000000001,0,14,summary,[NPR leadership] faces congressional questioning
+2,organization,NPR,0.9500000000000001,32,35,content,Katherine Maher testified about [NPR]'s editorial independence...
+2,person,Maher,0.75,10,15,content,Katherine [Maher] testified about NPR's editorial independence...
+3,organization,Federal Reserve,0.9,0,15,title,[Federal Reserve] Raises Interest Rates
+3,person,Federal Reserve,0.8500000000000001,0,15,title,[Federal Reserve] Raises Interest Rates
+3,person,Raises Interest,0.8500000000000001,16,31,title,Federal Reserve [Raises Interest] Rates
+3,person,Fed continues,0.75,0,13,summary,[Fed continues] monetary tightening policy
+3,organization,Federal Reserve,0.9,4,19,content,The [Federal Reserve] announced a 0.25% rate increase...

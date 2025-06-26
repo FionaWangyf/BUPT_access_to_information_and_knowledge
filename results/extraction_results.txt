@@ -1,0 +1,43 @@
+信息抽取结果报告
+==================================================
+
+文档 1:
+------------------------------
+
+LOCATION:
+  - Ukraine (置信度: 0.900)
+  - Ukraine (置信度: 0.900)
+
+PERSON:
+  - Biden (置信度: 0.900)
+  - Biden Announces (置信度: 0.850)
+  - Military Aid (置信度: 0.850)
+
+MONEY:
+  - $2.5 billion (置信度: 1.000)
+
+文档 2:
+------------------------------
+
+ORGANIZATION:
+  - Congress (置信度: 1.000)
+  - NPR (置信度: 0.950)
+
+PERSON:
+  - NPR CEO (置信度: 0.950)
+  - NPR leadership (置信度: 0.950)
+  - Testifies Before (置信度: 0.850)
+  - Maher (置信度: 0.750)
+
+文档 3:
+------------------------------
+
+ORGANIZATION:
+  - Federal Reserve (置信度: 0.900)
+  - Federal Reserve (置信度: 0.900)
+
+PERSON:
+  - Federal Reserve (置信度: 0.850)
+  - Raises Interest (置信度: 0.850)
+  - Fed continues (置信度: 0.750)
+
