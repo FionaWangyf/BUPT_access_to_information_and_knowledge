@@ -1,0 +1,339 @@
+{
+  "0": {
+    "document_info": {
+      "doc_id": 0,
+      "title": "[Top Trump] officials visit prolific Alaska oil field amid push to expa",
+      "content_preview": "r for International Affairs at Japan's Ministry of Economy, [Trade and] Industry, was among those at Prudhoe Bay on Monday. For yea"
+    },
+    "extraction_timestamp": "",
+    "evaluated_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Top Trump",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "[Top Trump] officials visit prolific Alaska oil field amid push to expa",
+        "start_pos": 0,
+        "end_pos": 9,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Alaska",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "Top Trump officials visit prolific [Alaska] oil field amid push to expand drilling",
+        "start_pos": 35,
+        "end_pos": 41,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Dan Sullivan",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Sen. [Dan Sullivan], R-Alaska, rips up a piece of paper that had plans from the",
+        "start_pos": 5,
+        "end_pos": 17,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Alaska",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "Sen. Dan Sullivan, R-[Alaska], rips up a piece of paper that had plans from the Biden adm",
+        "start_pos": 21,
+        "end_pos": 27,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Energy Secretary",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "olific oil field near the Arctic Ocean. The remarks by U.S. [Energy Secretary] Chris Wright came as ",
+        "start_pos": 581,
+        "end_pos": 597,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Chris Wright",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "near the Arctic Ocean. The remarks by U.S. Energy Secretary [Chris Wright] came as he and two other ",
+        "start_pos": 598,
+        "end_pos": 610,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Interior Secretary",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "ris Wright came as he and two other Trump Cabinet members — [Interior Secretary] Doug Burgum and Env",
+        "start_pos": 660,
+        "end_pos": 678,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Doug Burgum",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "he and two other Trump Cabinet members — Interior Secretary [Doug Burgum] and Environmental Protecti",
+        "start_pos": 679,
+        "end_pos": 690,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s prodigious North Slope.Jenny Kane/APhide caption\nDEADHORSE, Alaska — President Donald Trump wants to double the amount of oil coursing through Alaska",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "June 2, 2025, located near Deadhorse, Alaska, on the state'[s prodigious North Slope.Jenny Kane/APhi",
+        "start_pos": 216,
+        "end_pos": 367,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "big, beautiful twin,",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "line system and build a massive natural gas project as its \"[big, beautiful twin,]\" a top administra",
+        "start_pos": 439,
+        "end_pos": 459,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s push to expand oil and gas drilling, mining and logging in the state that drew criticism from environmentalists.\nDuring the trip, Burgum",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "Bay as part of a multiday trip aimed at highlighting Trump'[s push to expand oil and gas drilling, m",
+        "start_pos": 829,
+        "end_pos": 967,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Japan",
+        "confidence": 0.9500000000000001,
+        "field": "content",
+        "context": "try representatives from several Asian countries, including [Japan], South Korea, Taiwan and the Phi",
+        "start_pos": 1552,
+        "end_pos": 1557,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s economic lifeline for nearly 50 years.\nGovernment and industry representatives from several Asian countries, including Japan, South Korea, Taiwan and the Philippines, were joining a portion of the U.S. officials",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "ns for 800 miles (nearly 1,300 kilometers), has been Alaska'[s economic lifeline for nearly 50 years",
+        "start_pos": 1431,
+        "end_pos": 1644,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "June 2, 2025",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "n during a news conference at the Pump Station 1 on Monday, [June 2, 2025], located near Deadhorse, ",
+        "start_pos": 157,
+        "end_pos": 169,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "organization",
+        "entity_value": "Environmental Protection Agency",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "Trump Cabinet members — Interior Secretary Doug Burgum and [Environmental Protection Agency] Adminis",
+        "start_pos": 695,
+        "end_pos": 726,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Trump has",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "nes, were joining a portion of the U.S. officials' trip, as [Trump has] focused renewed attention on",
+        "start_pos": 1655,
+        "end_pos": 1664,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Dan Sullivan",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Sen. [Dan Sullivan], R-Alaska, rips up a piece of paper that had plans from the",
+        "start_pos": 5,
+        "end_pos": 17,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Administrator Lee",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "r Secretary Doug Burgum and Environmental Protection Agency [Administrator Lee] Zeldin — visited Pru",
+        "start_pos": 727,
+        "end_pos": 744,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Petroleum Reserve",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "sing and industrial development in portions of the National [Petroleum Reserve]-Alaska that are desi",
+        "start_pos": 1097,
+        "end_pos": 1114,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Prudhoe Bay",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "bsistence or other values. The petroleum reserve is west of [Prudhoe Bay] and Deadhorse, the industr",
+        "start_pos": 1235,
+        "end_pos": 1246,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Matsuo Takehiko",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "o Alaska residents and ship liquefied natural gas overseas. [Matsuo Takehiko], vice minister for Int",
+        "start_pos": 1830,
+        "end_pos": 1845,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Alaska",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "Sen. Dan Sullivan, R-[Alaska], rips up a piece of paper that had plans from the Biden adm",
+        "start_pos": 21,
+        "end_pos": 27,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Ministry of Economy",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "akehiko, vice minister for International Affairs at Japan's [Ministry of Economy], Trade and Industr",
+        "start_pos": 1898,
+        "end_pos": 1917,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "For years",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ade and Industry, was among those at Prudhoe Bay on Monday. [For years], state le",
+        "start_pos": 1981,
+        "end_pos": 1990,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Monday while",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "s \"big, beautiful twin,\" a top administration official said [Monday while] touring a prolific oil fi",
+        "start_pos": 496,
+        "end_pos": 508,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Cabinet members",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "nergy Secretary Chris Wright came as he and two other Trump [Cabinet members] — Interior Secretary D",
+        "start_pos": 642,
+        "end_pos": 657,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Alaska pipeline",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "industrial encampment near the starting point of the trans-[Alaska pipeline] system. The pipeline, w",
+        "start_pos": 1325,
+        "end_pos": 1340,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Alaska residents",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "oposal, which in its current iteration would provide gas to [Alaska residents] and ship liquefied na",
+        "start_pos": 1772,
+        "end_pos": 1788,
+        "human_evaluation": "correct",
+        "evaluation_notes": ""
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Trade and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "r for International Affairs at Japan's Ministry of Economy, [Trade and] Industry, was among those at",
+        "start_pos": 1919,
+        "end_pos": 1928,
+        "human_evaluation": "incorrect",
+        "evaluation_notes": ""
+      }
+    ],
+    "missed_entities": [],
+    "evaluation_summary": {
+      "total_extracted": 29,
+      "evaluated_count": 29,
+      "correct_count": 20,
+      "incorrect_count": 9,
+      "missed_count": 0
+    }
+  }
+}

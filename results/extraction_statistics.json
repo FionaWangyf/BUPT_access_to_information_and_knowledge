@@ -1,7 +1,7 @@
 {
   "total_documents_processed": 10,
   "total_extractions": 43,
-  "total_processing_time": 0.006512641906738281,
+  "total_processing_time": 0.010002374649047852,
   "extractions_by_type": {
     "location": 7,
     "money": 2,
@@ -17,9 +17,9 @@
   "average_confidence": 0.9023255813953489,
   "documents_with_extractions": 10,
   "avg_extractions_per_document": 4.3,
-  "avg_processing_time_per_document": 0.0006512641906738281,
+  "avg_processing_time_per_document": 0.0010002374649047852,
   "documents_with_extractions_ratio": 1.0,
-  "timestamp": 1750937144.251111,
+  "timestamp": 1751101001.4295,
   "config": {
     "enable_regex_extractor": true,
     "regex_confidence_threshold": 0.6,

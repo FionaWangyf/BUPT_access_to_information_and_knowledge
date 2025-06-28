@@ -1,0 +1,2864 @@
+{
+  "0": {
+    "document_info": {
+      "doc_id": 0,
+      "title": "[Top Trump] officials visit prolific Alaska oil field amid push to expa",
+      "content_preview": "r for International Affairs at Japan's Ministry of Economy, [Trade and] Industry, was among those at Prudhoe Bay on Monday. For yea"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Top Trump",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "[Top Trump] officials visit prolific Alaska oil field amid push to expa",
+        "start_pos": 0,
+        "end_pos": 9
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Alaska",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "Top Trump officials visit prolific [Alaska] oil field amid push to expand drilling",
+        "start_pos": 35,
+        "end_pos": 41
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Dan Sullivan",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Sen. [Dan Sullivan], R-Alaska, rips up a piece of paper that had plans from the",
+        "start_pos": 5,
+        "end_pos": 17
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Alaska",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "Sen. Dan Sullivan, R-[Alaska], rips up a piece of paper that had plans from the Biden adm",
+        "start_pos": 21,
+        "end_pos": 27
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Energy Secretary",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "olific oil field near the Arctic Ocean. The remarks by U.S. [Energy Secretary] Chris Wright came as ",
+        "start_pos": 581,
+        "end_pos": 597
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Chris Wright",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "near the Arctic Ocean. The remarks by U.S. Energy Secretary [Chris Wright] came as he and two other ",
+        "start_pos": 598,
+        "end_pos": 610
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Interior Secretary",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "ris Wright came as he and two other Trump Cabinet members — [Interior Secretary] Doug Burgum and Env",
+        "start_pos": 660,
+        "end_pos": 678
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Doug Burgum",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "he and two other Trump Cabinet members — Interior Secretary [Doug Burgum] and Environmental Protecti",
+        "start_pos": 679,
+        "end_pos": 690
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s prodigious North Slope.Jenny Kane/APhide caption\nDEADHORSE, Alaska — President Donald Trump wants to double the amount of oil coursing through Alaska",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "June 2, 2025, located near Deadhorse, Alaska, on the state'[s prodigious North Slope.Jenny Kane/APhi",
+        "start_pos": 216,
+        "end_pos": 367
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "big, beautiful twin,",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "line system and build a massive natural gas project as its \"[big, beautiful twin,]\" a top administra",
+        "start_pos": 439,
+        "end_pos": 459
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s push to expand oil and gas drilling, mining and logging in the state that drew criticism from environmentalists.\nDuring the trip, Burgum",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "Bay as part of a multiday trip aimed at highlighting Trump'[s push to expand oil and gas drilling, m",
+        "start_pos": 829,
+        "end_pos": 967
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Japan",
+        "confidence": 0.9500000000000001,
+        "field": "content",
+        "context": "try representatives from several Asian countries, including [Japan], South Korea, Taiwan and the Phi",
+        "start_pos": 1552,
+        "end_pos": 1557
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s economic lifeline for nearly 50 years.\nGovernment and industry representatives from several Asian countries, including Japan, South Korea, Taiwan and the Philippines, were joining a portion of the U.S. officials",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "ns for 800 miles (nearly 1,300 kilometers), has been Alaska'[s economic lifeline for nearly 50 years",
+        "start_pos": 1431,
+        "end_pos": 1644
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "June 2, 2025",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "n during a news conference at the Pump Station 1 on Monday, [June 2, 2025], located near Deadhorse, ",
+        "start_pos": 157,
+        "end_pos": 169
+      },
+      {
+        "entity_type": "organization",
+        "entity_value": "Environmental Protection Agency",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "Trump Cabinet members — Interior Secretary Doug Burgum and [Environmental Protection Agency] Adminis",
+        "start_pos": 695,
+        "end_pos": 726
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Trump has",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "nes, were joining a portion of the U.S. officials' trip, as [Trump has] focused renewed attention on",
+        "start_pos": 1655,
+        "end_pos": 1664
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Dan Sullivan",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Sen. [Dan Sullivan], R-Alaska, rips up a piece of paper that had plans from the",
+        "start_pos": 5,
+        "end_pos": 17
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Administrator Lee",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "r Secretary Doug Burgum and Environmental Protection Agency [Administrator Lee] Zeldin — visited Pru",
+        "start_pos": 727,
+        "end_pos": 744
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Petroleum Reserve",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "sing and industrial development in portions of the National [Petroleum Reserve]-Alaska that are desi",
+        "start_pos": 1097,
+        "end_pos": 1114
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Prudhoe Bay",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "bsistence or other values. The petroleum reserve is west of [Prudhoe Bay] and Deadhorse, the industr",
+        "start_pos": 1235,
+        "end_pos": 1246
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Matsuo Takehiko",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "o Alaska residents and ship liquefied natural gas overseas. [Matsuo Takehiko], vice minister for Int",
+        "start_pos": 1830,
+        "end_pos": 1845
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Alaska",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "Sen. Dan Sullivan, R-[Alaska], rips up a piece of paper that had plans from the Biden adm",
+        "start_pos": 21,
+        "end_pos": 27
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Ministry of Economy",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "akehiko, vice minister for International Affairs at Japan's [Ministry of Economy], Trade and Industr",
+        "start_pos": 1898,
+        "end_pos": 1917
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "For years",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ade and Industry, was among those at Prudhoe Bay on Monday. [For years], state le",
+        "start_pos": 1981,
+        "end_pos": 1990
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Monday while",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "s \"big, beautiful twin,\" a top administration official said [Monday while] touring a prolific oil fi",
+        "start_pos": 496,
+        "end_pos": 508
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Cabinet members",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "nergy Secretary Chris Wright came as he and two other Trump [Cabinet members] — Interior Secretary D",
+        "start_pos": 642,
+        "end_pos": 657
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Alaska pipeline",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "industrial encampment near the starting point of the trans-[Alaska pipeline] system. The pipeline, w",
+        "start_pos": 1325,
+        "end_pos": 1340
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Alaska residents",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "oposal, which in its current iteration would provide gas to [Alaska residents] and ship liquefied na",
+        "start_pos": 1772,
+        "end_pos": 1788
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Trade and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "r for International Affairs at Japan's Ministry of Economy, [Trade and] Industry, was among those at",
+        "start_pos": 1919,
+        "end_pos": 1928
+      }
+    ]
+  },
+  "1": {
+    "document_info": {
+      "doc_id": 1,
+      "title": "A runway under construction at [Newark]'s beleaguered airport reopens early",
+      "content_preview": "tually ramped it up even more,\" Duffy said. The problems at [Newark recently] came to a head when air traffic controllers directing plane"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "location",
+        "entity_value": "Newark",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "A runway under construction at [Newark]'s beleaguered airport reopens early",
+        "start_pos": 31,
+        "end_pos": 37
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "United Airline",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "[United Airline] planes are seen at Newark Liberty International Airport in",
+        "start_pos": 0,
+        "end_pos": 14
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Newark Liberty",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "United Airline planes are seen at [Newark Liberty] International Airport in New Jersey on May 7.Kena",
+        "start_pos": 34,
+        "end_pos": 48
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "International Airport",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "United Airline planes are seen at Newark Liberty [International Airport] in New Jersey on May 7.Kena",
+        "start_pos": 49,
+        "end_pos": 70
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "New Jersey",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "planes are seen at Newark Liberty International Airport in [New Jersey] on May 7.Kena Betancur/AFP v",
+        "start_pos": 74,
+        "end_pos": 84
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Kena Betancur",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Newark Liberty International Airport in New Jersey on May 7.[Kena Betancur]/AFP via Getty Imageshide",
+        "start_pos": 94,
+        "end_pos": 107
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Getty Imageshide",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "tional Airport in New Jersey on May 7.Kena Betancur/AFP via [Getty Imageshide] caption A runway",
+        "start_pos": 116,
+        "end_pos": 132
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "AFP via",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "International Airport in New Jersey on May 7.Kena Betancur/[AFP via] Getty Imageshide caption A runw",
+        "start_pos": 108,
+        "end_pos": 115
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Transportation Secretary",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "at a press conference at the airport Monday afternoon, U.S. [Transportation Secretary] Sean Duffy he",
+        "start_pos": 640,
+        "end_pos": 664
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Sean Duffy",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "the airport Monday afternoon, U.S. Transportation Secretary [Sean Duffy] heaped praise on Port Autho",
+        "start_pos": 665,
+        "end_pos": 675
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "I think you were going to beat the timeframe by a couple days, but when they saw some of the issues that were happening here at Newark, they actually ramped it up even more,",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "for completing the estimated 60-day project 13 days early. \"[I think you were going to beat the time",
+        "start_pos": 825,
+        "end_pos": 998
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Officials",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ancellationshas reopened nearly two weeksahead of schedule. [Officials] said the resumption of regul",
+        "start_pos": 365,
+        "end_pos": 374
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Duffy",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ning here at Newark, they actually ramped it up even more,\" [Duffy] said. The problems at Newark rec",
+        "start_pos": 1000,
+        "end_pos": 1005
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "United Airline",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "[United Airline] planes are seen at Newark Liberty International Airport in",
+        "start_pos": 0,
+        "end_pos": 14
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Newark Liberty",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "United Airline planes are seen at [Newark Liberty] International Airport in New Jersey on May 7.Kena",
+        "start_pos": 34,
+        "end_pos": 48
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "International Airport",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "United Airline planes are seen at Newark Liberty [International Airport] in New Jersey on May 7.Kena",
+        "start_pos": 49,
+        "end_pos": 70
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "New Jersey",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "planes are seen at Newark Liberty International Airport in [New Jersey] on May 7.Kena Betancur/AFP v",
+        "start_pos": 74,
+        "end_pos": 84
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Kena Betancur",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Newark Liberty International Airport in New Jersey on May 7.[Kena Betancur]/AFP via Getty Imageshide",
+        "start_pos": 94,
+        "end_pos": 107
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Getty Imageshide",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "tional Airport in New Jersey on May 7.Kena Betancur/AFP via [Getty Imageshide] caption A runway at N",
+        "start_pos": 116,
+        "end_pos": 132
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Port Authority",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": ", U.S. Transportation Secretary Sean Duffy heaped praise on [Port Authority] of New York and New Jer",
+        "start_pos": 693,
+        "end_pos": 707
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "New York",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "ion Secretary Sean Duffy heaped praise on Port Authority of [New York] and New Jersey officials, uni",
+        "start_pos": 711,
+        "end_pos": 719
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Aviation Administrationset",
+        "confidence": 0.8,
+        "field": "content",
+        "context": "ther runways in operation at Newark. On May 20, the Federal [Aviation Administrationset] a targeted ",
+        "start_pos": 1745,
+        "end_pos": 1771
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Newark",
+        "confidence": 0.75,
+        "field": "content",
+        "context": ".Kena Betancur/AFP via Getty Imageshide caption A runway at [Newark] Liberty International Airport t",
+        "start_pos": 153,
+        "end_pos": 159
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Philadelphia",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "says it is also contending with low staffing levels at the [Philadelphia] TRACON, the radar center t",
+        "start_pos": 1460,
+        "end_pos": 1472
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "AFP via",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "International Airport in New Jersey on May 7.Kena Betancur/[AFP via] Getty Imageshide caption A runw",
+        "start_pos": 108,
+        "end_pos": 115
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Monday afternoon",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "construction. Speaking at a press conference at the airport [Monday afternoon], U.S. Transportation ",
+        "start_pos": 617,
+        "end_pos": 633
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Jersey officials",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "n Duffy heaped praise on Port Authority of New York and New [Jersey officials], unions and workers f",
+        "start_pos": 728,
+        "end_pos": 744
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Newark recently",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "tually ramped it up even more,\" Duffy said. The problems at [Newark recently] came to a head when ai",
+        "start_pos": 1028,
+        "end_pos": 1043
+      }
+    ]
+  },
+  "2": {
+    "document_info": {
+      "doc_id": 2,
+      "title": "Raids and revenge tips: Inside ICE's [Puerto Rico] deportation operation",
+      "content_preview": "onzález-Ramos sat down for an interview with NPR in her San [Juan office] last week. She said to date ICE agents in Puert"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Puerto Rico",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "Raids and revenge tips: Inside ICE's [Puerto Rico] deportation operation",
+        "start_pos": 37,
+        "end_pos": 48
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Raids and",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "[Raids and] revenge tips: Inside ICE's Puerto Rico deportation operatio",
+        "start_pos": 0,
+        "end_pos": 9
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Inside ICE",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "Raids and revenge tips: [Inside ICE]'s Puerto Rico deportation operation",
+        "start_pos": 24,
+        "end_pos": 34
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Homeland Security",
+        "confidence": 1.0,
+        "field": "summary",
+        "context": "on and Customs Enforcement's intelligence office — known as [Homeland Security] Investigations — in ",
+        "start_pos": 97,
+        "end_pos": 114
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Customs Enforcement",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Rebecca González-Ramos runs Immigration and [Customs Enforcement]'s intelligence office — known as H",
+        "start_pos": 44,
+        "end_pos": 63
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "San Juan",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "nce office — known as Homeland Security Investigations — in [San Juan], Puert",
+        "start_pos": 135,
+        "end_pos": 143
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Ramos runs",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "Rebecca González-[Ramos runs] Immigration and Customs Enforcement's intelligence office —",
+        "start_pos": 17,
+        "end_pos": 27
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Immigration and",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "Rebecca González-Ramos runs [Immigration and] Customs Enforcement's intelligence office — known as H",
+        "start_pos": 28,
+        "end_pos": 43
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "White House",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "umed the role a few days after Donald Trump's return to the [White House], her agents' number one pr",
+        "start_pos": 1228,
+        "end_pos": 1239
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Homeland Security",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "on and Customs Enforcement's intelligence office — known as [Homeland Security] Investigations — in ",
+        "start_pos": 97,
+        "end_pos": 114
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s been her job to track down and deport every last one of them.\n\"Our mandate,\" she said, \"is 100 percent. So everybody that",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "e island, estimates it's about 20,000, and since January it'[s been her job to track down and deport",
+        "start_pos": 538,
+        "end_pos": 661
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "is 100 percent. So everybody that's in the United States, and in this case in Puerto Rico, without an immigration status, needs to be removed or deported.",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "nd deport every last one of them. \"Our mandate,\" she said, \"[is 100 percent. So everybody that's in ",
+        "start_pos": 628,
+        "end_pos": 782
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "re expanding surprise raids at hotels and construction sites, knocking on the doors of people with deportation orders, and questioning others on the street. She saysthey",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "re aggressive strategies than in past administrations. They'[re expanding surprise raids at hotels a",
+        "start_pos": 1392,
+        "end_pos": 1561
+      },
+      {
+        "entity_type": "organization",
+        "entity_value": "NPR",
+        "confidence": 0.9500000000000001,
+        "field": "content",
+        "context": "ir neighbors. González-Ramos sat down for an interview with [NPR] in her San Juan office last week. ",
+        "start_pos": 1926,
+        "end_pos": 1929
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "NPRhide caption",
+        "confidence": 0.9500000000000001,
+        "field": "content",
+        "context": "t in Puerto Rico and the U.S. Virgin Islands.Adrian Florido/[NPRhide caption] No one knows exactly h",
+        "start_pos": 299,
+        "end_pos": 314
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s intelligence office – one of dozens of HSI offices nationwide. She is the first woman to lead her office, responsible for investigating customs fraud, drug and weapons smuggling, and human trafficking. But since she assumed the role a few days after Donald Trump",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "Virgin Islands. HSI is Immigration and Customs Enforcement'[s intelligence office – one of dozens of",
+        "start_pos": 947,
+        "end_pos": 1211
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Trump",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ons — in San Juan, Puerto Rico. Her mandate under President [Trump], she said, is to find every depo",
+        "start_pos": 186,
+        "end_pos": 191
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s top investigator on the island, estimates it",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "U.S. territory of Puerto Rico. Rebecca González-Ramos, ICE'[s top investigator on the island, estima",
+        "start_pos": 454,
+        "end_pos": 500
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "number one priority has become finding immigrants to deport.\nThey",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "after Donald Trump's return to the White House, her agents'[ number one priority has become finding ",
+        "start_pos": 1252,
+        "end_pos": 1318
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Customs Enforcement",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Rebecca González-Ramos runs Immigration and [Customs Enforcement]'s intelligence office — known as H",
+        "start_pos": 44,
+        "end_pos": 63
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "San Juan",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "nce office — known as Homeland Security Investigations — in [San Juan], Puerto Rico. Her mandate und",
+        "start_pos": 135,
+        "end_pos": 143
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Puerto Rico",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "— known as Homeland Security Investigations — in San Juan, [Puerto Rico]. Her mandate under Presiden",
+        "start_pos": 145,
+        "end_pos": 156
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Virgin Islands",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "find every deportable immigrant in Puerto Rico and the U.S. [Virgin Islands].Adrian Florido/NPRhide ",
+        "start_pos": 269,
+        "end_pos": 283
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Adrian Florido",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "rtable immigrant in Puerto Rico and the U.S. Virgin Islands.[Adrian Florido]/NPRhide caption No one ",
+        "start_pos": 284,
+        "end_pos": 298
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "last week",
+        "confidence": 0.85,
+        "field": "content",
+        "context": "s sat down for an interview with NPR in her San Juan office [last week]. She said to date ICE agents",
+        "start_pos": 1953,
+        "end_pos": 1962
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Ramos",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "atus in the U.S. territory of Puerto Rico. Rebecca González-[Ramos], ICE's top investigator on the i",
+        "start_pos": 443,
+        "end_pos": 448
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Ramos runs",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "Rebecca González-[Ramos runs] Immigration and Customs Enforcement's intelligence office —",
+        "start_pos": 17,
+        "end_pos": 27
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Immigration and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "Rebecca González-Ramos runs [Immigration and] Customs Enforcement's intelligence office — known as H",
+        "start_pos": 28,
+        "end_pos": 43
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Her mandate",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "omeland Security Investigations — in San Juan, Puerto Rico. [Her mandate] under President Trump, she",
+        "start_pos": 158,
+        "end_pos": 169
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "They take",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "extended driving privileges to people without legal status. [They take] informant tips from everyday",
+        "start_pos": 1791,
+        "end_pos": 1800
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Ramos sat",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "citizens calling in to report on their neighbors. González-[Ramos sat] down for an interview with NP",
+        "start_pos": 1889,
+        "end_pos": 1898
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Juan office",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "onzález-Ramos sat down for an interview with NPR in her San [Juan office] last week. She said to dat",
+        "start_pos": 1941,
+        "end_pos": 1952
+      }
+    ]
+  },
+  "3": {
+    "document_info": {
+      "doc_id": 3,
+      "title": "p speaks during a news conference in the Oval Office of the [White House] in Washington.Allison Robb",
+      "content_preview": "epartment of Education. The budget proposal for fiscal year [2026] calls for a 15% funding cut to the department and a handful"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "location",
+        "entity_value": "White House",
+        "confidence": 1.0,
+        "field": "summary",
+        "context": "p speaks during a news conference in the Oval Office of the [White House] in Washington.Allison Robb",
+        "start_pos": 74,
+        "end_pos": 85
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Washington",
+        "confidence": 1.0,
+        "field": "summary",
+        "context": "a news conference in the Oval Office of the White House in [Washington].Allison Robbert/AFP/Getty Im",
+        "start_pos": 89,
+        "end_pos": 99
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "President Trump",
+        "confidence": 1.0,
+        "field": "summary",
+        "context": "[President Trump] speaks during a news conference in the Oval Office of the W",
+        "start_pos": 0,
+        "end_pos": 15
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Trump speaks",
+        "confidence": 0.9,
+        "field": "summary",
+        "context": "President [Trump speaks] during a news conference in the Oval Office of the White Ho",
+        "start_pos": 10,
+        "end_pos": 22
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Allison Robbert",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "ference in the Oval Office of the White House in Washington.[Allison Robbert]/AFP/Getty Imageshide c",
+        "start_pos": 100,
+        "end_pos": 115
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Getty Imageshide",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Office of the White House in Washington.Allison Robbert/AFP/[Getty Imageshide] caption The T",
+        "start_pos": 120,
+        "end_pos": 136
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "White House",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "p speaks during a news conference in the Oval Office of the [White House] in Washington.Allison Robb",
+        "start_pos": 74,
+        "end_pos": 85
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Washington",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "a news conference in the Oval Office of the White House in [Washington].Allison Robbert/AFP/Getty Im",
+        "start_pos": 89,
+        "end_pos": 99
+      },
+      {
+        "entity_type": "money",
+        "entity_value": "$18 billion",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "levels where they've been the previous two years: just over [$18 billion]. In addition to administer",
+        "start_pos": 1502,
+        "end_pos": 1513
+      },
+      {
+        "entity_type": "money",
+        "entity_value": "$2 billion",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "them all into one grant and dramatically cutting funding to [$2 billion]. This consolidation would, ",
+        "start_pos": 1956,
+        "end_pos": 1966
+      },
+      {
+        "entity_type": "organization",
+        "entity_value": "Department of Education",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "has releasednew detailsof its vision to wind down the U.S. [Department of Education]. The budget pro",
+        "start_pos": 229,
+        "end_pos": 252
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "President Trump",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "[President Trump] speaks during a news conference in the Oval Office of the W",
+        "start_pos": 0,
+        "end_pos": 15
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s ultimate goal is to disrupt or even wind down this funding, as called for in the conservative policy playbook Project 2025. But this budget request would leave Title I funding levels where they",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "ublic school advocates have fretted that the administration'[s ultimate goal is to disrupt or even w",
+        "start_pos": 1264,
+        "end_pos": 1459
+      },
+      {
+        "entity_type": "money",
+        "entity_value": "$66.7 billion",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "ding down,\" the document says. Still, this summary requests [$66.7 billion] for the department, maki",
+        "start_pos": 918,
+        "end_pos": 931
+      },
+      {
+        "entity_type": "money",
+        "entity_value": "$6.5 billion",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "lars, the Education Department also sends districts roughly [$6.5 billion] to administer 18 smaller ",
+        "start_pos": 1631,
+        "end_pos": 1643
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Trump speaks",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "President [Trump speaks] during a news conference in the Oval Office of the White Ho",
+        "start_pos": 10,
+        "end_pos": 22
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "We're going to be returning education very simply back to the states where it belongs.",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ote from Trump on the day he signed that executive action: \"[We're going to be returning education v",
+        "start_pos": 705,
+        "end_pos": 791
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "reflects an agency that is responsibly winding down,",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ack to the states where it belongs.\" Overall, the proposal \"[reflects an agency that is responsibly ",
+        "start_pos": 816,
+        "end_pos": 868
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Allison Robbert",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "ference in the Oval Office of the White House in Washington.[Allison Robbert]/AFP/Getty Imageshide c",
+        "start_pos": 100,
+        "end_pos": 115
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Getty Imageshide",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Office of the White House in Washington.Allison Robbert/AFP/[Getty Imageshide] caption The Trump adm",
+        "start_pos": 120,
+        "end_pos": 136
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Education Department",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "tive order calling for the education secretary to close the [Education Department]. Nonetheless, the",
+        "start_pos": 566,
+        "end_pos": 586
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Nonetheless",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "the education secretary to close the Education Department. [Nonetheless], the proposed budget summar",
+        "start_pos": 588,
+        "end_pos": 599
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Overall",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "education very simply back to the states where it belongs.\" [Overall], the proposal \"reflects an age",
+        "start_pos": 793,
+        "end_pos": 800
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Still",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "gency that is responsibly winding down,\" the document says. [Still], this summary requests $66.7 bil",
+        "start_pos": 889,
+        "end_pos": 894
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "This consolidation would",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "o one grant and dramatically cutting funding to $2 billion. [This consolidation would], in the",
+        "start_pos": 1968,
+        "end_pos": 1992
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Here are",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ndful of changes to key K-12 and higher education programs. [Here are] five things to know: Last mon",
+        "start_pos": 409,
+        "end_pos": 417
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Last month",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "nd higher education programs. Here are five things to know: [Last month], afederal judge blockedTrum",
+        "start_pos": 439,
+        "end_pos": 449
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Public school",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "districts that serve neighborhoods of concentrated poverty. [Public school] advocates have fretted t",
+        "start_pos": 1203,
+        "end_pos": 1216
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Department also",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "dministering those important Title I dollars, the Education [Department also] sends districts roughl",
+        "start_pos": 1591,
+        "end_pos": 1606
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "2026",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "epartment of Education. The budget proposal for fiscal year [2026] calls for a 15% funding cut to th",
+        "start_pos": 290,
+        "end_pos": 294
+      }
+    ]
+  },
+  "4": {
+    "document_info": {
+      "doc_id": 4,
+      "title": "[Homeland Security] pulls down list of 'sanctuary' cities and counties after ba",
+      "content_preview": "ansparencyand accountability in how the list was compiled. \"[This list was created without any input], criteria of compliance, or a mechanism for how to object t"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Homeland Security",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "[Homeland Security] pulls down list of 'sanctuary' cities and counties after ba",
+        "start_pos": 0,
+        "end_pos": 17
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Washington, D.C.",
+        "confidence": 1.0,
+        "field": "summary",
+        "context": ".S. Customs and Border Protection headquarters on May 18 in [Washington, D.C.]Kevin Car",
+        "start_pos": 125,
+        "end_pos": 141
+      },
+      {
+        "entity_type": "organization",
+        "entity_value": "Department of Homeland Security",
+        "confidence": 1.0,
+        "field": "summary",
+        "context": "A U.S. [Department of Homeland Security] sign is displayed at the U.S. Customs and Border Protection",
+        "start_pos": 7,
+        "end_pos": 38
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Border Protection",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Homeland Security sign is displayed at the U.S. Customs and [Border Protection] headquarters on May ",
+        "start_pos": 81,
+        "end_pos": 98
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Kevin Car",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Border Protection headquarters on May 18 in Washington, D.C.[Kevin Car]",
+        "start_pos": 141,
+        "end_pos": 150
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Customs and",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "partment of Homeland Security sign is displayed at the U.S. [Customs and] Border Protection headquar",
+        "start_pos": 69,
+        "end_pos": 80
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Washington, D.C.",
+        "confidence": 1.0,
+        "field": "content",
+        "context": ".S. Customs and Border Protection headquarters on May 18 in [Washington, D.C.]Kevin Carter/Getty Ima",
+        "start_pos": 125,
+        "end_pos": 141
+      },
+      {
+        "entity_type": "organization",
+        "entity_value": "Department of Homeland Security",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "A U.S. [Department of Homeland Security] sign is displayed at the U.S. Customs and Border Protection",
+        "start_pos": 7,
+        "end_pos": 38
+      },
+      {
+        "entity_type": "organization",
+        "entity_value": "Congress",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "f cities seen as \"sanctuary\" have been called to testify in [Congress] and federal agencies have loo",
+        "start_pos": 1088,
+        "end_pos": 1096
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Association President",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "had been included. Over the weekend, the National Sheriffs' [Association President] Sheriff Kieran D",
+        "start_pos": 1488,
+        "end_pos": 1509
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Sheriff Kieran",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "r the weekend, the National Sheriffs' Association President [Sheriff Kieran] Donahueaccused DHS of l",
+        "start_pos": 1510,
+        "end_pos": 1524
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "DHS demands that these jurisdictions immediately review and revise their policies to align with Federal immigration laws and renew their obligation to protect American citizens, not dangerous illegal aliens,",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "that DHS said were innoncompliance with federal statutes. \"[DHS demands that these jurisdictions imm",
+        "start_pos": 460,
+        "end_pos": 667
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "This list was created without any input, criteria of compliance, or a mechanism for how to object to the designation. Sheriffs nationwide have no way to know what they must do or not do to avoid this arbitrary label,",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "ansparencyand accountability in how the list was compiled. \"[This list was created without any input",
+        "start_pos": 1617,
+        "end_pos": 1833
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "DHS demands",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "that DHS said were innoncompliance with federal statutes. \"[DHS demands] that these jurisdictions im",
+        "start_pos": 460,
+        "end_pos": 471
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Donahue",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "what they must do or not do to avoid this arbitrary label,\" [Donahue] said, calling on DHS to remove",
+        "start_pos": 1835,
+        "end_pos": 1842
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "sanctuary jurisdictions",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "tion The Department of Homeland Security removed a list of \"[sanctuary jurisdictions]\" days after th",
+        "start_pos": 234,
+        "end_pos": 257
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "This decision by DHS could create a vacuum of trust that may take years to overcome.",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "y label,\" Donahue said, calling on DHS to remove the list. \"[This decision by DHS could create a vac",
+        "start_pos": 1885,
+        "end_pos": 1969
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Border Protection",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Homeland Security sign is displayed at the U.S. Customs and [Border Protection] headquarters on May ",
+        "start_pos": 81,
+        "end_pos": 98
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Kevin Carter",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Border Protection headquarters on May 18 in Washington, D.C.[Kevin Carter]/Getty Imageshide caption ",
+        "start_pos": 141,
+        "end_pos": 153
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Homeland Security",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "D.C.Kevin Carter/Getty Imageshide caption The Department of [Homeland Security] removed a list of \"s",
+        "start_pos": 197,
+        "end_pos": 214
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "last week",
+        "confidence": 0.85,
+        "field": "content",
+        "context": "al aliens,\"the DHS page stated. The list, which posted late [last week] and came down on Sunday, was",
+        "start_pos": 717,
+        "end_pos": 726
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Customs and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "partment of Homeland Security sign is displayed at the U.S. [Customs and] Border Protection headquar",
+        "start_pos": 69,
+        "end_pos": 80
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Columbia that",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "of cities and counties across 37 states and the District of [Columbia that] DHS said were innoncompl",
+        "start_pos": 392,
+        "end_pos": 405
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Since the",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "s to increase immigration-related arrests and deportations. [Since the] start of the administration,",
+        "start_pos": 967,
+        "end_pos": 976
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Congress and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "f cities seen as \"sanctuary\" have been called to testify in [Congress and] federal agencies have loo",
+        "start_pos": 1088,
+        "end_pos": 1100
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "But the",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "al immigration officials on immigration-related operations. [But the] list quickly faced intense cri",
+        "start_pos": 1327,
+        "end_pos": 1334
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Over the",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "law enforcement confused as to why they had been included. [Over the] weekend, the National Sheriffs",
+        "start_pos": 1447,
+        "end_pos": 1455
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Donahueaccused DHS",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "the National Sheriffs' Association President Sheriff Kieran [Donahueaccused DHS] of lacking transpar",
+        "start_pos": 1525,
+        "end_pos": 1543
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "This list was created without any input",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "ansparencyand accountability in how the list was compiled. \"[This list was created without any input",
+        "start_pos": 1617,
+        "end_pos": 1656
+      }
+    ]
+  },
+  "5": {
+    "document_info": {
+      "doc_id": 5,
+      "title": "A [Manson Family] member was recommended for parole again. But she's not free",
+      "content_preview": "her crime.\" Krenwinkel was 21 when she participated in the [August 1969] murders of seven people — including actress Sharon Tate, wh"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Manson Family",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "A [Manson Family] member was recommended for parole again. But she's not free",
+        "start_pos": 2,
+        "end_pos": 15
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "But she",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "A Manson Family member was recommended for parole again. [But she]'s not free just yet",
+        "start_pos": 57,
+        "end_pos": 64
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Patricia Krenwinkel",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "[Patricia Krenwinkel] enters the superior court in Los Angeles for an arraignment",
+        "start_pos": 0,
+        "end_pos": 19
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Los Angeles",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "Patricia Krenwinkel enters the superior court in [Los Angeles] for an arraignment in February 1970. ",
+        "start_pos": 49,
+        "end_pos": 60
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Krenwinkel",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "r court in Los Angeles for an arraignment in February 1970. [Krenwinkel], who is serving a life sent",
+        "start_pos": 98,
+        "end_pos": 108
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "February 1970",
+        "confidence": 0.7,
+        "field": "summary",
+        "context": "ers the superior court in Los Angeles for an arraignment in [February 1970]. Krenwinkel, who is serv",
+        "start_pos": 83,
+        "end_pos": 96
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "While Ms. Krenwinkel has matured in prison and engaged in commendable rehabilitative efforts, her efforts have not sufficiently reduced her risk for future dangerousness,",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "l posed \"an unreasonable risk of danger to public safety.\" \"[While Ms. Krenwinkel has matured in pri",
+        "start_pos": 881,
+        "end_pos": 1051
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s house on Cielo Drive, then helping kill grocery store executive Leno LaBianca and his wife Rosemary the following night.\nKrenwinkel said she stabbed Leno LaBianca with a fork and used the couple",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "igail Folger with a knife and stabbing her 28 times at Tate'[s house on Cielo Drive, then helping ki",
+        "start_pos": 1775,
+        "end_pos": 1971
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "snot a done deal: The board",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "parole for the second time in three yearson Friday. But it'[snot a done deal: The board]'s legal div",
+        "start_pos": 510,
+        "end_pos": 537
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s office declined to comment.\nNewsom overturned the board",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ew and potentially reverse it. California Gov. Gavin Newsom'[s office declined to comment. Newsom ov",
+        "start_pos": 707,
+        "end_pos": 764
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "an unreasonable risk of danger to public safety.",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "2 parole recommendation,writingthat Krenwinkel still posed \"[an unreasonable risk of danger to publi",
+        "start_pos": 830,
+        "end_pos": 878
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "not developed sufficient insight into the causative factors of her crime.",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "dangerousness,\" Newsomwrote in his report, saying she had \"[not developed sufficient insight into th",
+        "start_pos": 1096,
+        "end_pos": 1169
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Patricia Krenwinkel",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "[Patricia Krenwinkel] enters the superior court in Los Angeles for an arraignment",
+        "start_pos": 0,
+        "end_pos": 19
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Los Angeles",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "Patricia Krenwinkel enters the superior court in [Los Angeles] for an arraignment in February 1970. ",
+        "start_pos": 49,
+        "end_pos": 60
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "George Brich",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "murders, has been recommended for parole for a second time.[George Brich]/APhide caption A panel of ",
+        "start_pos": 232,
+        "end_pos": 244
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Parole Hearings",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "rge Brich/APhide caption A panel of the California Board of [Parole Hearings] has again recommended ",
+        "start_pos": 295,
+        "end_pos": 310
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Charles Manson",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "of Parole Hearings has again recommended parole for former [Charles Manson] follower and convicted k",
+        "start_pos": 351,
+        "end_pos": 365
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "California Gov",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "governor has 30 days to review and potentially reverse it. [California Gov]. Gavin Newsom's office d",
+        "start_pos": 678,
+        "end_pos": 692
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Gavin Newsom",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "days to review and potentially reverse it. California Gov. [Gavin Newsom]'s office declined to comme",
+        "start_pos": 694,
+        "end_pos": 706
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Sharon Tate",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "the August 1969 murders of seven people — including actress [Sharon Tate], who was eight-and-a-half ",
+        "start_pos": 1274,
+        "end_pos": 1285
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Krenwinkel",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "r court in Los Angeles for an arraignment in February 1970. [Krenwinkel], who is serving a life sent",
+        "start_pos": 98,
+        "end_pos": 108
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "California",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "or a second time.George Brich/APhide caption A panel of the [California] Board of Parole Hearings ha",
+        "start_pos": 275,
+        "end_pos": 285
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Newsomwrote in his report",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ot sufficiently reduced her risk for future dangerousness,\" [Newsomwrote in his report], saying she ",
+        "start_pos": 1053,
+        "end_pos": 1078
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Los Angeles",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ed her rolein the Tate-LaBianca murders, which targeted two [Los Angeles] households over the course",
+        "start_pos": 1607,
+        "end_pos": 1618
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Manson murders",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "el, who is serving a life sentence for her role in the 1969 [Manson murders], has been recommended f",
+        "start_pos": 166,
+        "end_pos": 180
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "APhide caption",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "been recommended for parole for a second time.George Brich/[APhide caption] A panel of the Californi",
+        "start_pos": 245,
+        "end_pos": 259
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Krenwinkel was",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "s Manson follower and convicted killer Patricia Krenwinkel. [Krenwinkel was] found suitable for paro",
+        "start_pos": 417,
+        "end_pos": 431
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Krenwinkeladmitted her",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ar, after which he would take control of society. On trial, [Krenwinkeladmitted her] rolein the Tate",
+        "start_pos": 1531,
+        "end_pos": 1553
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "LaBianca murders",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "f society. On trial, Krenwinkeladmitted her rolein the Tate-[LaBianca murders], which targeted two L",
+        "start_pos": 1570,
+        "end_pos": 1586
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Angeles households",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "er rolein the Tate-LaBianca murders, which targeted two Los [Angeles households] over the course of ",
+        "start_pos": 1611,
+        "end_pos": 1629
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "She confessed",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "d two Los Angeles households over the course of two nights. [She confessed] to chasing 25-year-old c",
+        "start_pos": 1661,
+        "end_pos": 1674
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Folger with",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "She confessed to chasing 25-year-old coffee heiress Abigail [Folger with] a knife and stabbing her 2",
+        "start_pos": 1721,
+        "end_pos": 1732
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "February 1970",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "ers the superior court in Los Angeles for an arraignment in [February 1970]. Krenwinkel, who is serv",
+        "start_pos": 83,
+        "end_pos": 96
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "1969",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "nwinkel, who is serving a life sentence for her role in the [1969] Manson murders, has been recommen",
+        "start_pos": 161,
+        "end_pos": 165
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "2022",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "s office declined to comment. Newsom overturned the board's [2022] parole recommendation,writingthat",
+        "start_pos": 767,
+        "end_pos": 771
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "August 1969",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "her crime.\" Krenwinkel was 21 when she participated in the [August 1969] murders of seven people — i",
+        "start_pos": 1218,
+        "end_pos": 1229
+      }
+    ]
+  },
+  "6": {
+    "document_info": {
+      "doc_id": 6,
+      "title": "How a [Los Angeles] camp made space to let kids be kids after the wildfires",
+      "content_preview": "an for NPRhide caption Mikey Latner founded Project:Camp in [2018], inspired by what he saw as a need to help kids cope with t"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Los Angeles",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "How a [Los Angeles] camp made space to let kids be kids after the wildfires",
+        "start_pos": 6,
+        "end_pos": 17
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Emory Stumme",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "[Emory Stumme] takes a moment to reflect on a tree swing outside of her ne",
+        "start_pos": 0,
+        "end_pos": 12
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Morgan Lieberman",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "ing outside of her new home in La Crescenta-Montrose, Calif.[Morgan Lieberman] for NPRhide caption N",
+        "start_pos": 111,
+        "end_pos": 127
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Montrose",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "ect on a tree swing outside of her new home in La Crescenta-[Montrose], Calif.Morgan Lieberman for N",
+        "start_pos": 95,
+        "end_pos": 103
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "You started crying and laughing and crying, and then heaving. I was like, 'Oh my God, she's really having a mental break.'",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "\" Emory's mother, Becca, told her, recounting the episode. \"[You started crying and laughing and cry",
+        "start_pos": 469,
+        "end_pos": 592
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s schools hit pause until they could relocate. When theEatonandPalisadesfires sparked in January — respectively the second- and third-most destructive in California history— familiarity, friend groups and routines were upset for Emory and many of her peers.\nThe Stumme family",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "Altadena home in the fire. Emory and her 3-year-old brother'[s schools hit pause until they could re",
+        "start_pos": 847,
+        "end_pos": 1122
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "You just were like, 'I can't pick up this fork, it's too heavy,'",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ng a family dinner, and she struggled to catch her breath. \"[You just were like, 'I can't pick up th",
+        "start_pos": 344,
+        "end_pos": 409
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Emory Stumme",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "[Emory Stumme] takes a moment to reflect on a tree swing outside of her ne",
+        "start_pos": 0,
+        "end_pos": 12
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Morgan Lieberman",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "ing outside of her new home in La Crescenta-Montrose, Calif.[Morgan Lieberman] for NPRhide caption N",
+        "start_pos": 111,
+        "end_pos": 127
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Southern California",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "her daughter. It was part of a series of free day camps in [Southern California] organized by Projec",
+        "start_pos": 1389,
+        "end_pos": 1408
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Camp Bob",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "ether on the soccer field as the Project:Camp day begins at [Camp Bob] Waldorf in Glendale, Calif.Mo",
+        "start_pos": 1596,
+        "end_pos": 1604
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Montrose",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ect on a tree swing outside of her new home in La Crescenta-[Montrose], Calif.Morgan Lieberman for N",
+        "start_pos": 95,
+        "end_pos": 103
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Los Angeles",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "t long after the Eaton fire displaced her family from their [Los Angeles] home, 10-year-old Emory St",
+        "start_pos": 210,
+        "end_pos": 221
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Camp",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "free day camps in Southern California organized by Project:[Camp], which aims to provide some normal",
+        "start_pos": 1430,
+        "end_pos": 1434
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Stumme broke",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "d her family from their Los Angeles home, 10-year-old Emory [Stumme broke] down. The tears came duri",
+        "start_pos": 246,
+        "end_pos": 258
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "You started",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "\" Emory's mother, Becca, told her, recounting the episode. \"[You started] crying and laughing and cr",
+        "start_pos": 469,
+        "end_pos": 480
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Emory and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "nd and their two kids lost their Altadena home in the fire. [Emory and] her 3-year-old brother's sch",
+        "start_pos": 814,
+        "end_pos": 823
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Counselors and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "o provide some normalcy for children displaced by disaster. [Counselors and] kids join together on t",
+        "start_pos": 1508,
+        "end_pos": 1522
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Camp day",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "s and kids join together on the soccer field as the Project:[Camp day] begins at Camp Bob Waldorf in",
+        "start_pos": 1577,
+        "end_pos": 1585
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Latner founded",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "Glendale, Calif.Morgan Lieberman for NPRhide caption Mikey [Latner founded] Project:Camp in 2018, in",
+        "start_pos": 1675,
+        "end_pos": 1689
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Houston the",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ir routines are disrupted. The idea sprung from his work in [Houston the] year prior with kids displ",
+        "start_pos": 1850,
+        "end_pos": 1861
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Morgan Lieberman for NPRhide caption\nBecca Stumme",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "n their backyard of their new home in La Crescenta-Montrose.[Morgan Lieberman for NPRhide caption Be",
+        "start_pos": 694,
+        "end_pos": 743
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Morgan Lieberman for NPRhide caption\nSo",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "r peers. The Stumme family's former home in Altadena, Calif.[Morgan Lieberman for NPRhide caption So",
+        "start_pos": 1156,
+        "end_pos": 1195
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "2018",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "an for NPRhide caption Mikey Latner founded Project:Camp in [2018], inspired by what he saw as a nee",
+        "start_pos": 1706,
+        "end_pos": 1710
+      }
+    ]
+  },
+  "7": {
+    "document_info": {
+      "doc_id": 7,
+      "title": "rned in the Los Angeles fires, many of them homes. A lot in [Pacific Palisades], Calif., has yet to ",
+      "content_preview": "in greater-Los Angeles. Their home was originally built in [1926]. In April in a widely circulatedreport, Los Angeles County"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Pacific Palisades",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "rned in the Los Angeles fires, many of them homes. A lot in [Pacific Palisades], Calif., has yet to ",
+        "start_pos": 90,
+        "end_pos": 107
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Liz Baker",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": ". A lot in Pacific Palisades, Calif., has yet to be cleared.[Liz Baker]/N",
+        "start_pos": 139,
+        "end_pos": 148
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Los Angeles",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "More than 16,000 structures burned in the [Los Angeles] fires, many of them homes. A lot in Pacific ",
+        "start_pos": 42,
+        "end_pos": 53
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "More than",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "[More than] 16,000 structures burned in the Los Angeles fires, many of",
+        "start_pos": 0,
+        "end_pos": 9
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Angeles fires",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "More than 16,000 structures burned in the Los [Angeles fires], many of them homes. A lot in Pacific ",
+        "start_pos": 46,
+        "end_pos": 59
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "It would mean rebuilding a home where my kids are gonna grow up, obviously I don't want them to be on land that is toxic,",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "emoved all the debris from her lot, it was the last straw. \"[It would mean rebuilding a home where m",
+        "start_pos": 704,
+        "end_pos": 825
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "NPRhide caption",
+        "confidence": 0.9500000000000001,
+        "field": "content",
+        "context": "Pacific Palisades, Calif., has yet to be cleared.Liz Baker/[NPRhide caption] LOS ANGELES — Diana Lie",
+        "start_pos": 149,
+        "end_pos": 164
+      },
+      {
+        "entity_type": "money",
+        "entity_value": "$164 billion",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "ructive fires in California history with an estimated$95 to [$164 billion] in total capital and prop",
+        "start_pos": 1839,
+        "end_pos": 1851
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "There has not been much communication about what is healthy to be around.",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "I don't want them to be on land that is toxic,\" Lieb says. \"[There has not been much communication a",
+        "start_pos": 839,
+        "end_pos": 912
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "ll stay there until they can find a condo near her daughters",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "continue to live with her parents in West LA. She says they'[ll stay there until they can find a con",
+        "start_pos": 1438,
+        "end_pos": 1498
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "It's just been so much upheaval. I want peace,",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ntil they can find a condo near her daughters' new school. \"[It's just been so much upheaval. I want",
+        "start_pos": 1513,
+        "end_pos": 1559
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Pacific Palisades",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "rned in the Los Angeles fires, many of them homes. A lot in [Pacific Palisades], Calif., has yet to ",
+        "start_pos": 90,
+        "end_pos": 107
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Liz Baker",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": ". A lot in Pacific Palisades, Calif., has yet to be cleared.[Liz Baker]/NPRhide caption LOS ANGELES ",
+        "start_pos": 139,
+        "end_pos": 148
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Eaton Fire",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "na Lieb was already on the fence about rebuilding after the [Eaton Fire] swept through her Altadena,",
+        "start_pos": 242,
+        "end_pos": 252
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Anderson School",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "on in total capital and property losses,according to UCLA's [Anderson School] of Management. Initial",
+        "start_pos": 1909,
+        "end_pos": 1924
+      },
+      {
+        "entity_type": "money",
+        "entity_value": "$95",
+        "confidence": 0.85,
+        "field": "content",
+        "context": "st destructive fires in California history with an estimated[$95] to $164 billion in total capital a",
+        "start_pos": 1832,
+        "end_pos": 1835
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Los Angeles",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "More than 16,000 structures burned in the [Los Angeles] fires, many of them homes. A lot in Pacific ",
+        "start_pos": 42,
+        "end_pos": 53
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "For now",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "Lieb decided to list her lot on the market a few days ago. [For now], she and her family will contin",
+        "start_pos": 1345,
+        "end_pos": 1352
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Combined",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "destroyed more than 16,000 structures, many of them homes. [Combined], the Eaton and Palisades fires",
+        "start_pos": 1715,
+        "end_pos": 1723
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Initially",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "y losses,according to UCLA's Anderson School of Management. [Initially], federal disaster officials ",
+        "start_pos": 1940,
+        "end_pos": 1949
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "More than",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "[More than] 16,000 structures burned in the Los Angeles fires, many of",
+        "start_pos": 0,
+        "end_pos": 9
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Angeles fires",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "More than 16,000 structures burned in the Los [Angeles fires], many of them homes. A lot in Pacific ",
+        "start_pos": 46,
+        "end_pos": 59
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "LOS ANGELES",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "es, Calif., has yet to be cleared.Liz Baker/NPRhide caption [LOS ANGELES] — Diana Lieb was already o",
+        "start_pos": 165,
+        "end_pos": 176
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "There were",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "alif., neighborhood and burned down her house on January 7. [There were] the still-unresolved insura",
+        "start_pos": 342,
+        "end_pos": 352
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "There was",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "and economic uncertainty: could she even afford to rebuild? [There was] also the lingering trauma of",
+        "start_pos": 451,
+        "end_pos": 460
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "But when",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "going back: her twin daughters' school was also destroyed. [But when] she heard there could still be",
+        "start_pos": 549,
+        "end_pos": 557
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Lieb says",
+        "confidence": 0.75,
+        "field": "content",
+        "context": ", obviously I don't want them to be on land that is toxic,\" [Lieb says]. \"There has not been much co",
+        "start_pos": 827,
+        "end_pos": 836
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "There has",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "I don't want them to be on land that is toxic,\" Lieb says. \"[There has] not been much communication ",
+        "start_pos": 839,
+        "end_pos": 848
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Lieb and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "een much communication about what is healthy to be around.\" [Lieb and] her husband bought in Altaden",
+        "start_pos": 914,
+        "end_pos": 922
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Altadena nine",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "at is healthy to be around.\" Lieb and her husband bought in [Altadena nine] years ago because it was",
+        "start_pos": 945,
+        "end_pos": 958
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "County health",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "in 1926. In April in a widely circulatedreport, Los Angeles [County health] officials found more tha",
+        "start_pos": 1134,
+        "end_pos": 1147
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Fire scraped",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "icials found more than a quarter of properties in the Eaton [Fire scraped] by federal crews still ha",
+        "start_pos": 1211,
+        "end_pos": 1223
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "California standards",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "Eaton Fire scraped by federal crews still had toxins above [California standards]. Lieb decided to l",
+        "start_pos": 1264,
+        "end_pos": 1284
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Lieb decided",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "federal crews still had toxins above California standards. [Lieb decided] to list her lot on the mar",
+        "start_pos": 1286,
+        "end_pos": 1298
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "California history",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "nd Palisades fires were among the most destructive fires in [California history] with an estimated$9",
+        "start_pos": 1796,
+        "end_pos": 1814
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Diana Lieb was already on the fence about rebuilding after the Eaton Fire swept through her Altadena",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "s yet to be cleared.Liz Baker/NPRhide caption LOS ANGELES — [Diana Lieb was already on the fence abo",
+        "start_pos": 179,
+        "end_pos": 279
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "1926",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "in greater-Los Angeles. Their home was originally built in [1926]. In April in a widely circulatedre",
+        "start_pos": 1077,
+        "end_pos": 1081
+      }
+    ]
+  },
+  "8": {
+    "document_info": {
+      "doc_id": 8,
+      "title": "Months after [Hurricane Helene], some North Carolinians still struggle to find housing",
+      "content_preview": "troyed since Hurricane Helene hit western North Carolina in [September 2024].Nickolai Hammar/NPRhide caption SWANNANOA, N.C. — Before th"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "Hurricane Helene",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "Months after [Hurricane Helene], some North Carolinians still struggle to find housing",
+        "start_pos": 13,
+        "end_pos": 29
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Months after",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "[Months after] Hurricane Helene, some North Carolinians still struggle to",
+        "start_pos": 0,
+        "end_pos": 12
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Carolinians still",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "Months after Hurricane Helene, some North [Carolinians still] struggle to find housing",
+        "start_pos": 42,
+        "end_pos": 59
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Nickolai Hammar",
+        "confidence": 0.8500000000000001,
+        "field": "summary",
+        "context": "rricane Helene hit western North Carolina in September 2024.[Nickolai Hammar]/NPRhid",
+        "start_pos": 128,
+        "end_pos": 143
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "North Carolina",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "sat vacant and destroyed since Hurricane Helene hit western [North Carolina] in September 2024.Nicko",
+        "start_pos": 95,
+        "end_pos": 109
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Swannanoa has",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "The Super 8 Motel in [Swannanoa has] sat vacant and destroyed since Hurricane Helene hit western",
+        "start_pos": 21,
+        "end_pos": 34
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Helene hit",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "l in Swannanoa has sat vacant and destroyed since Hurricane [Helene hit] western North Carolina in S",
+        "start_pos": 76,
+        "end_pos": 86
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "September 2024",
+        "confidence": 0.7,
+        "field": "summary",
+        "context": "troyed since Hurricane Helene hit western North Carolina in [September 2024].Nickolai Hammar/NPRhid",
+        "start_pos": 113,
+        "end_pos": 127
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "We are looking at rooms shifted off, cars open, mud, debris everywhere, insulation hanging from the ceilings. Room 222 was my dad's room.",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "a foundation was for one of the hotel sections,\" she says. \"[We are looking at rooms shifted off, ca",
+        "start_pos": 720,
+        "end_pos": 857
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "NPRhide caption",
+        "confidence": 0.9500000000000001,
+        "field": "content",
+        "context": "it western North Carolina in September 2024.Nickolai Hammar/[NPRhide caption] SWANNANOA, N.C. — Befo",
+        "start_pos": 144,
+        "end_pos": 159
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "He didn't know exactly what was going on. He just knew that they were measuring and keeping an eye on the water. He stood [up] and there was water in his room. His trash can floated right by him, and that's when he had the National Guard knocking on his door.",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "nd woke him up and asked him if he was okay,\" says Maisch. \"[He didn't know exactly what was going o",
+        "start_pos": 1583,
+        "end_pos": 1842
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "t find affordable housing elsewhere.\nNow, it",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "short and long-term housing for dozens of people who couldn'[t find affordable housing elsewhere. No",
+        "start_pos": 384,
+        "end_pos": 428
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "We are actually standing in the middle of where a foundation was for one of the hotel sections,",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "section of the motel that shifted and landed in the river. \"[We are actually standing in the middle ",
+        "start_pos": 612,
+        "end_pos": 707
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "I called him that morning and woke him up and asked him if he was okay,",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ht, watching the river rise and worrying about her father. \"[I called him that morning and woke him ",
+        "start_pos": 1496,
+        "end_pos": 1567
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Nickolai Hammar",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "rricane Helene hit western North Carolina in September 2024.[Nickolai Hammar]/NPRhide caption SWANNA",
+        "start_pos": 128,
+        "end_pos": 143
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Hurricane Heleneswamped",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "mar/NPRhide caption SWANNANOA, N.C. — Before theremnants of [Hurricane Heleneswamped] this town, the",
+        "start_pos": 200,
+        "end_pos": 223
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Kim Maisch",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "ovie, frozen in time. A thick layer of mud covers the area. [Kim Maisch] points to a section of the ",
+        "start_pos": 529,
+        "end_pos": 539
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Hurricane Helene",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "as living in September 2024. Flooding from the remnants of [Hurricane Helene] shifted many of the bu",
+        "start_pos": 997,
+        "end_pos": 1013
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Last September",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "etely off their foundations.Nickolai Hammar/NPRhide caption [Last September], whenTropical Storm Hel",
+        "start_pos": 1130,
+        "end_pos": 1144
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "North Carolina",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "sat vacant and destroyed since Hurricane Helene hit western [North Carolina] in September 2024.Nicko",
+        "start_pos": 95,
+        "end_pos": 109
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Motel",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "eremnants of Hurricane Heleneswamped this town, the Super 8 [Motel], wedged between a highway and th",
+        "start_pos": 247,
+        "end_pos": 252
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "NPRhide caption\nLast September",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "el complex completely off their foundations.Nickolai Hammar/[NPRhide caption Last September], whenTr",
+        "start_pos": 1114,
+        "end_pos": 1144
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Maisch",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "to live. But most of the others living there still haven't. [Maisch], who used",
+        "start_pos": 1983,
+        "end_pos": 1989
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Swannanoa has",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "The Super 8 Motel in [Swannanoa has] sat vacant and destroyed since Hurricane Helene hit western",
+        "start_pos": 21,
+        "end_pos": 34
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Helene hit",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "l in Swannanoa has sat vacant and destroyed since Hurricane [Helene hit] western North Carolina in S",
+        "start_pos": 76,
+        "end_pos": 86
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Before theremnants",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "mber 2024.Nickolai Hammar/NPRhide caption SWANNANOA, N.C. — [Before theremnants] of Hurricane Helene",
+        "start_pos": 178,
+        "end_pos": 196
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Motel where",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "oom.\" Kim Maisch stands in front of the room at the Super 8 [Motel where] her father was living in S",
+        "start_pos": 913,
+        "end_pos": 924
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Flooding from",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "per 8 Motel where her father was living in September 2024. [Flooding from] the remnants of Hurricane",
+        "start_pos": 967,
+        "end_pos": 980
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "River swamped",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "rst flooding seen in more than two centuries. The Swannanoa [River swamped] much of the town. Maisch",
+        "start_pos": 1336,
+        "end_pos": 1349
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "She was",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "much of the town. Maisch, 36, lives not far from the motel. [She was] up most of the night, watching",
+        "start_pos": 1410,
+        "end_pos": 1417
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Her father",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "nocking on his door.\" Everyone got out of the motel safely. [Her father] has since found another pla",
+        "start_pos": 1882,
+        "end_pos": 1892
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "But most",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "l safely. Her father has since found another place to live. [But most] of the others living there st",
+        "start_pos": 1932,
+        "end_pos": 1940
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "We are looking at rooms shifted off",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "a foundation was for one of the hotel sections,\" she says. \"[We are looking at rooms shifted off], c",
+        "start_pos": 720,
+        "end_pos": 755
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "September 2024",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "troyed since Hurricane Helene hit western North Carolina in [September 2024].Nickolai Hammar/NPRhide",
+        "start_pos": 113,
+        "end_pos": 127
+      }
+    ]
+  },
+  "9": {
+    "document_info": {
+      "doc_id": 9,
+      "title": "Shooting leaves 1 dead, 11 hurt on a [North Carolina] street during a house party",
+      "content_preview": "ast 80 shots were fired in the shooting that began at about [12:45 ]a.m. People reported running, ducking for cover and scrambli"
+    },
+    "extracted_entities": [
+      {
+        "entity_type": "person",
+        "entity_value": "North Carolina",
+        "confidence": 0.8500000000000001,
+        "field": "title",
+        "context": "Shooting leaves 1 dead, 11 hurt on a [North Carolina] street during a house party",
+        "start_pos": 37,
+        "end_pos": 51
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Shooting leaves",
+        "confidence": 0.75,
+        "field": "title",
+        "context": "[Shooting leaves] 1 dead, 11 hurt on a North Carolina street during a house p",
+        "start_pos": 0,
+        "end_pos": 15
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "June 1, 2025",
+        "confidence": 0.95,
+        "field": "summary",
+        "context": "s gather outside a community after a mass shooting, Sunday, [June 1, 2025], in Hickory, a cit",
+        "start_pos": 119,
+        "end_pos": 131
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "WSOC video",
+        "confidence": 0.75,
+        "field": "summary",
+        "context": "In this image taken from [WSOC video], various police vehicles gather outside a community after a",
+        "start_pos": 25,
+        "end_pos": 35
+      },
+      {
+        "entity_type": "quote",
+        "entity_value": "s spokesperson said. The agency said it was asking for people who attended the party to contact the office.\nSheriff",
+        "confidence": 1.0,
+        "field": "content",
+        "context": "horities believe there was more than one shooter, a sheriff'[s spokesperson said. The agency said it",
+        "start_pos": 1211,
+        "end_pos": 1326
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "June 1, 2025",
+        "confidence": 0.95,
+        "field": "content",
+        "context": "s gather outside a community after a mass shooting, Sunday, [June 1, 2025], in Hickory, a city in Ca",
+        "start_pos": 119,
+        "end_pos": 131
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Authorities",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "ly quiet residential neighborhood, sheriff's deputies said. [Authorities] said at least 80 shots wer",
+        "start_pos": 484,
+        "end_pos": 495
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Office",
+        "confidence": 0.9,
+        "field": "content",
+        "context": "in the case. A statement from the Catawba County Sheriff's [Office] said a 58-year-old man, Shawn Pa",
+        "start_pos": 813,
+        "end_pos": 819
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Catawba County",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "mass shooting, Sunday, June 1, 2025, in Hickory, a city in [Catawba County], N.C.WSOC/APhide caption",
+        "start_pos": 155,
+        "end_pos": 169
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "County Sheriff",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "s from the public in the case. A statement from the Catawba [County Sheriff]'s Office said a 58-year",
+        "start_pos": 796,
+        "end_pos": 810
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Shawn Patrick",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "the Catawba County Sheriff's Office said a 58-year-old man, [Shawn Patrick] Hood, of Lenoir, was kil",
+        "start_pos": 844,
+        "end_pos": 857
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Carolina State",
+        "confidence": 0.8500000000000001,
+        "field": "content",
+        "context": "hectares), and included outdoor and indoor areas. The North [Carolina State] Bureau of Investigation",
+        "start_pos": 1936,
+        "end_pos": 1950
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Turk",
+        "confidence": 0.85,
+        "field": "content",
+        "context": "he party to contact the office. Sheriff's office Maj. Aaron [Turk] said at a news conference that th",
+        "start_pos": 1347,
+        "end_pos": 1351
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "North Carolina",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ORY, N.C. — Gunfire erupted around a house party in western [North Carolina] early Sunday and one pe",
+        "start_pos": 259,
+        "end_pos": 273
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Patrick Hood",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "tawba County Sheriff's Office said a 58-year-old man, Shawn [Patrick Hood], of Lenoir, was killed, t",
+        "start_pos": 850,
+        "end_pos": 862
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "Lenoir",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "iff's Office said a 58-year-old man, Shawn Patrick Hood, of [Lenoir], was killed, the oldest of the ",
+        "start_pos": 867,
+        "end_pos": 873
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "WSOC video",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "In this image taken from [WSOC video], various police vehicles gather outside a community after a",
+        "start_pos": 25,
+        "end_pos": 35
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "APhide caption",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "une 1, 2025, in Hickory, a city in Catawba County, N.C.WSOC/[APhide caption] HICKORY, N.C. — Gunfire",
+        "start_pos": 180,
+        "end_pos": 194
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Gunfire erupted",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "in Catawba County, N.C.WSOC/APhide caption HICKORY, N.C. — [Gunfire erupted] around a house party in",
+        "start_pos": 211,
+        "end_pos": 226
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Carolina early",
+        "confidence": 0.75,
+        "field": "content",
+        "context": ".C. — Gunfire erupted around a house party in western North [Carolina early] Sunday and one person w",
+        "start_pos": 265,
+        "end_pos": 279
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Sunday and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "rupted around a house party in western North Carolina early [Sunday and] one person was killed and 1",
+        "start_pos": 280,
+        "end_pos": 290
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "People reported",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "s were fired in the shooting that began at about 12:45 a.m. [People reported] running, ducking for c",
+        "start_pos": 577,
+        "end_pos": 592
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Hours later",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "ducking for cover and scrambling to their cars for safety. [Hours later] Sunday, law enforcement had",
+        "start_pos": 661,
+        "end_pos": 672
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Authorities believe",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "the victims was previously reported in critical condition. [Authorities believe] there was more than",
+        "start_pos": 1148,
+        "end_pos": 1167
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "County about",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "urred in a normally quiet neighborhood in southwest Catawba [County about] 7 miles (11 kilometers) s",
+        "start_pos": 1459,
+        "end_pos": 1471
+      },
+      {
+        "entity_type": "person",
+        "entity_value": "Investigation and",
+        "confidence": 0.75,
+        "field": "content",
+        "context": "utdoor and indoor areas. The North Carolina State Bureau of [Investigation and] the Hickory Police D",
+        "start_pos": 1961,
+        "end_pos": 1978
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "It said seven of the injured remained hospitalized late Sunday",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "ldest of the victims who ranged in age from as young as 16. [It said seven of the injured remained h",
+        "start_pos": 952,
+        "end_pos": 1014
+      },
+      {
+        "entity_type": "location",
+        "entity_value": "He said that about two hours before the shooting",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "about 7 miles (11 kilometers) south of the city of Hickory. [He said that about two hours before the",
+        "start_pos": 1526,
+        "end_pos": 1574
+      },
+      {
+        "entity_type": "time",
+        "entity_value": "12:45",
+        "confidence": 0.7,
+        "field": "content",
+        "context": "ast 80 shots were fired in the shooting that began at about [12:45 ]a.m. People reported running, du",
+        "start_pos": 566,
+        "end_pos": 572
+      }
+    ]
+  }
+}
